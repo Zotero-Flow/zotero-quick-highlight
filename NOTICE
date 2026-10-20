@@ -1,0 +1,6 @@
+Quick Highlight for Zotero
+Copyright (c) 2026 Kim YeongHyeon
+
+The translation regression fixture includes task/popup functions from Translate for Zotero 2.4.8 by its original contributors, licensed under GNU AGPL v3.
+Upstream: https://github.com/windingwind/zotero-pdf-translate
+No upstream translation runtime is bundled in the XPI; the plugin integrates with a separately installed copy.

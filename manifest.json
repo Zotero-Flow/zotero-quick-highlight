@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Quick Highlight for Zotero",
+  "version": "0.1.5",
+  "description": "Compact selection menu with hover color palettes; isolate each PDF translation selection.",
+  "applications": {
+    "zotero": {
+      "id": "quick-highlight@local.kyh",
+      "strict_min_version": "10.0.6",
+      "strict_max_version": "10.0.*",
+      "update_url": "https://github.com/Zotero-Flow/zotero-quick-highlight/releases/latest/download/updates.json"
+    }
+  },
+  "author": "Kim YeongHyeon",
+  "homepage_url": "https://github.com/Zotero-Flow/zotero-quick-highlight"
+}

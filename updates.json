@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "quick-highlight@local.kyh": {
+      "updates": [
+        {
+          "version": "0.1.5",
+          "update_link": "https://github.com/Zotero-Flow/zotero-quick-highlight/releases/download/v0.1.5/quick-highlight-0.1.5.xpi",
+          "update_hash": "sha256:c0778d36d9488c73b14f5370a2261630ae9ac2f254571934fc29d8e68f06329f",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "10.0.6",
+              "strict_max_version": "10.0.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
